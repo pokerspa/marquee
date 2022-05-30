@@ -1,3 +1,7 @@
+## 2.2.3
+
+- Update `fading_edge_scrollview` version to avoid null-aware operation warnings
+
 ## 2.2.2
 
 - Update to Flutter 3.
